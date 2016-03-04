@@ -20,7 +20,7 @@ BuildRequires:  audioflingerglue-devel >= 0.0.1
 BuildRequires:  pkgconfig(pulsecore) >= %{pulsemajorminor}
 BuildRequires:  pkgconfig(android-headers)
 BuildRequires:  pkgconfig(libhardware)
-BuildRequires:  pkgconfig(libdroid-util) >= %{pulsemajorminor}.41
+BuildRequires:  pkgconfig(libdroid-util) >= %{pulsemajorminor}.1
 
 %description
 PulseAudio Droid HAL glue module.
